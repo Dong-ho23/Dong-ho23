@@ -17,6 +17,6 @@
 <h3>:pencil2: 勉強中</h3>
 <p><img src="https://img.shields.io/badge/Java Script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/Type Script-3178C6?style=for-the-badge&logo=typescript&logoColor=white">  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
 </p>
-<br></br><br></br>
+<br></br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dong-ho23)](https://github.com/Dong-ho23/github-readme-stats)
