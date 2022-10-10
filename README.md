@@ -1,7 +1,6 @@
 ### 自己紹介
 
-<a href=""><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <p>大工事中
-</p></a>　
+<a href=""><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">></a>　
 
 ## 技術
 
