@@ -1,6 +1,6 @@
 ### 自己紹介
 
-<a href=""><img src="https://img.shields.io/badge/privateinternetaccess-#4BB749?style=for-the-badge&logo=notion&logoColor=white"></a>　
+<a href=""> <img src="https://img.shields.io/badge/privateinternetaccess-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>　
 
 
 <br></br>
