@@ -1,7 +1,6 @@
 ### 自己紹介
 
-<a href=""> <img src="https://img.shields.io/badge/privateinternetaccess-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>　
-
+<a href=""> <img src="https://img.shields.io/badge/ポートフォリオ-F05138?style=flat-square&logo=internetexplorer&logoColor=white"/></a>　
 
 <br></br>
 <br></br>
