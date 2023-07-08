@@ -1,6 +1,5 @@
 ### 自己紹介
 
-<a href="http://43.207.138.72/"> <img src="https://img.shields.io/badge/ポートフォリオ-F05138?style=flat-square&logo=internetexplorer&logoColor=white"/></a>　<-- ここをクリックしてください。
 
 <br></br>
 <br></br>
